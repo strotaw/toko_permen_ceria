@@ -1,0 +1,164 @@
+[
+  {
+    "text": "Aku mau beli satu marshmallow dan dua permen karet buat camilan!",
+    "quest": [
+      {"barang": "1", "qty":  1},
+      {"barang": "2", "qty":  2}
+    ],
+    "total": 400
+  },
+  {
+    "text": "Hari ini aku pengen cokelat sama loli merah, satu-satu aja!",
+    "quest": [
+      {"barang": "4", "qty":  1},
+      {"barang": "5", "qty":  1}
+    ],
+    "total": 1000
+  },
+  {
+    "text": "Beli tiga permen karet biar bisa tiup gelembung besar dan jeli yang kenyal satu!",
+    "quest": [
+      {"barang": "2", "qty":  3},
+      {"barang": "6", "qty":  1}
+  ],
+    
+    "total": 400
+  },
+  {
+    "text": "Aku mau marshmallow sama nougat, enak dimakan bareng!",
+    "quest": [
+      {"barang": "1", "qty":  1},
+      {"barang": "3", "qty":  1}
+    ],
+    "total": 400
+  },
+  {
+    "text": "Satu cokelat, dan satu jeli... lengkap deh jajanku!",
+    "quest": [
+      {"barang": "4", "qty":  1},
+      {"barang": "2", "qty":  1}
+    ],
+    "total": 600
+  },
+  {
+    "text": "Wah, uangku cukup buat dua marshmallow dan satu loli merah!",
+    "quest": [
+      {"barang": "1", "qty":  2},
+      {"barang": "5", "qty":  1}
+    ],
+    "total": 900
+  },
+  {
+    "text": "Mau beli satu nougat dan dua jeli buat dibagi ke adik-adik!",
+    "quest": [
+      {"barang": "3", "qty":  1},
+      {"barang": "6", "qty":  2}
+    ],
+    "total": 400
+  },
+  {
+    "text": "Aku suka cokelat! Tapi kalau masih ada uang, tambah permen karet juga deh.",
+    "quest": [
+      {"barang": "4", "qty":  1},
+      {"barang": "2", "qty":  1}
+    ],
+    "total": 600
+  },
+  {
+    "text": "Satu marshmallow buat aku, satu permen karet buat boneka—semua happy!",
+    "quest": [
+      {"barang": "1", "qty":  1},
+      {"barang": "2", "qty":  1}
+    ],
+    "total": 300
+  },
+  {
+    "text": "Dua cokelat buat aku dan satu permen karet untuk temanku, biar nggak iri-irian!",
+    "quest": [
+      {"barang": "4", "qty":  2},
+      {"barang": "2", "qty":  1}
+  ],
+    "total": 600
+  },
+  {
+    "text": "Aku beli marshmallow, dan nougat—semua favoritku!",
+    "quest": [
+
+      {"barang": "1", "qty":  1},
+      {"barang": "3", "qty":  1}
+    ],
+    "total": 400
+  },
+  {
+    "text": "Hari ini cuma beli satu jeli dan satu loli merah aja, soalnya kemarin udah banyak jajan!",
+    "quest": [
+      {"barang": "6", "qty":  1},
+      {"barang": "5", "qty":  1}
+    ],
+    "total": 600
+  },
+  {
+    "text": "Empat permen karet biar bisa main tiup gelembung bareng teman dan satu loli merah untuk dimakan!",
+    "quest": [
+      {"barang": "5", "qty":  1},
+      {"barang": "2", "qty":  4}
+    ],
+    "total": 900
+  },
+  {
+    "text": "Mau marshmallow tapi kalau masih cukup uang, tambah cokelat dong!",
+    "quest": [
+      {"barang": "1", "qty":  1},
+      {"barang": "4", "qty":  1}
+    ],
+    "total": 700
+  },
+  {
+    "text": "Satu nougat buat berangkat sekolah, satu marshmallow buat pulang sekolah!",
+    "quest": [
+      {"barang": "3", "qty":  1},
+      {"barang": "1", "qty":  1}
+    ],
+    "total": 400
+  },
+  {
+    "text": "Aku beli dua loli merah dan satu jeli buat dibagi sama kakak dan adik, adil kan?",
+    "quest": [
+      {"barang": "5", "qty":  2},
+      {"barang": "6", "qty":  1}
+    ],
+    "total": 1100
+  },
+  {
+    "text": "Kalau uangnya cukup, aku mau beli cokelat dan marshmallow. Enak banget!",
+    "quest": [
+      {"barang": "4", "qty":  1},
+      {"barang": "1", "qty":  1}
+    ],
+    "total": 700
+  },
+  {
+    "text": "Tiga jeli dan satu loli merah buat teman-teman yang main ke rumah—semua pada senang!",
+    "quest": [
+      {"barang": "5", "qty":  1},
+      {"barang": "6", "qty":  3}
+  ],
+    "total": 800
+  },
+  {
+    "text": "Aku beli marshmallow, dan nougat, jajan lengkap hari ini!",
+    "quest": [
+      {"barang": "3", "qty":  1},
+      {"barang": "2", "qty":  1}
+    ],
+    "total": 300
+  },
+  {
+    "text": "Satu cokelat buat aku, satu jeli buat ibu—semua pada senyum!",
+    "quest": [
+      {"barang": "4", "qty":  1},
+      {"barang": "6", "qty":  1}
+    ],
+    "total": 600
+  }
+]
