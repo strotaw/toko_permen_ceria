@@ -1,9 +1,9 @@
 [
   {
-    "text": "Aku mau beli satu marshmallow dan dua permen karet buat camilan!",
+    "text": "Saya ingin membeli satu marshmallow dan dua permen karet untuk camilan saat menonton kartun.",
     "quest": {
       "barang": [1, 2],
-      "qty": [1, 2, 0, 0, 0, 0],
+      "qty": [0, 1, 2, 0, 0, 0, 0],
       "items": [
         {"barang": 1, "qty": 1},
         {"barang": 2, "qty": 2}
@@ -12,231 +12,232 @@
     "total": 400
   },
   {
-    "text": "Hari ini aku pengen cokelat sama loli merah, satu-satu aja!",
+    "text": "Saya ingin dua cokelat dan satu nougat agar rasanya manis sekali.",
     "quest": {
-      "barang": [4, 5],
-      "qty": [0, 0, 0, 1, 1, 0],
-      "items": [
-        {"barang": 5, "qty": 1},
-        {"barang": 4, "qty": 1}
-      ]
-    },
-    "total": 1000
-  },
-  {
-    "text": "Beli tiga permen karet biar bisa tiup gelembung besar dan jeli yang kenyal satu!",
-    "quest": {
-      "barang": [2, 6],
-      "qty": [0, 3, 0, 0, 0, 1],
-      "items": [
-        {"barang": 2, "qty": 3},
-        {"barang": 6, "qty": 1}
-      ]
-    },
-    "total": 400
-  },
-  {
-    "text": "Aku mau marshmallow sama nougat, enak dimakan bareng!",
-    "quest": {
-      "barang": [1, 3],
-      "qty": [1, 0, 1, 0, 0, 0],
-      "items": [
-        {"barang": 1, "qty": 1},
-        {"barang": 3, "qty": 1}
-      ]
-    },
-    "total": 400
-  },
-  {
-    "text": "Satu cokelat, dan satu jeli... lengkap deh jajanku!",
-    "quest": {
-      "barang": [2, 4],
-      "qty": [0, 1, 0, 1, 0, 0],
-      "items": [
-        {"barang": 2, "qty": 1},
-        {"barang": 5, "qty": 1}
-      ]
-    },
-    "total": 600
-  },
-  {
-    "text": "Wah, uangku cukup buat dua marshmallow dan satu loli merah!",
-    "quest": {
-      "barang": [1, 5],
-      "qty": [2, 0, 0, 0, 1, 0],
-      "items": [
-        {"barang": 1, "qty": 2},
-        {"barang": 4, "qty": 1}
-      ]
-    },
-    "total": 900
-  },
-  {
-    "text": "Mau beli satu nougat dan dua jeli buat dibagi ke adik-adik!",
-    "quest": {
-      "barang": [3, 6],
-      "qty": [0, 0, 1, 0, 0, 2],
+      "barang": [3, 4],
+      "qty": [0, 0, 0, 1, 2, 0, 0],
       "items": [
         {"barang": 3, "qty": 1},
-        {"barang": 6, "qty": 2}
+        {"barang": 4, "qty": 2}
+      ]
+    },
+    "total": 1200
+  },
+  {
+    "text": "Saya ingin tiga jeli dan satu permen karet untuk dibagi bersama teman.",
+    "quest": {
+      "barang": [2, 6],
+      "qty": [0, 0, 1, 0, 0, 0, 3],
+      "items": [
+        {"barang": 2, "qty": 1},
+        {"barang": 6, "qty": 3}
       ]
     },
     "total": 400
   },
   {
-    "text": "Aku suka cokelat! Tapi kalau masih ada uang, tambah permen karet juga deh.",
+    "text": "Saya ingin dua marshmallow dan satu loli merah karena warnanya cantik.",
     "quest": {
-      "barang": [2, 4],
-      "qty": [0, 1, 0, 1, 0, 0],
+      "barang": [1, 5],
+      "qty": [0, 2, 0, 0, 0, 1, 0],
       "items": [
-        {"barang": 2, "qty": 1},
+        {"barang": 1, "qty": 2},
         {"barang": 5, "qty": 1}
-      ]
-    },
-    "total": 600
-  },
-  {
-    "text": "Satu marshmallow buat aku, satu permen karet buat boneka—semua happy!",
-    "quest": {
-      "barang": [1, 2],
-      "qty": [1, 1, 0, 0, 0, 0],
-      "items": [
-        {"barang": 1, "qty": 1},
-        {"barang": 2, "qty": 1}
-      ]
-    },
-    "total": 300
-  },
-  {
-    "text": "Dua cokelat buat aku dan satu permen karet untuk temanku, biar nggak iri-irian!",
-    "quest": {
-      "barang": [2, 4],
-      "qty": [0, 1, 0, 2, 0, 0],
-      "items": [
-        {"barang": 2, "qty": 1},
-        {"barang": 5, "qty": 2}
-      ]
-    },
-    "total": 600
-  },
-  {
-    "text": "Aku beli marshmallow, dan nougat—semua favoritku!",
-    "quest": {
-      "barang": [1, 3],
-      "qty": [1, 0, 1, 0, 0, 0],
-      "items": [
-        {"barang": 1, "qty": 1},
-        {"barang": 3, "qty": 1}
-      ]
-    },
-    "total": 400
-  },
-  {
-    "text": "Hari ini cuma beli satu jeli dan satu loli merah aja, soalnya kemarin udah banyak jajan!",
-    "quest": {
-      "barang": [5, 6],
-      "qty": [0, 0, 0, 0, 1, 1],
-      "items": [
-        {"barang": 4, "qty": 1},
-        {"barang": 6, "qty": 1}
-      ]
-    },
-    "total": 600
-  },
-  {
-    "text": "Empat permen karet biar bisa main tiup gelembung bareng teman dan satu loli merah untuk dimakan!",
-    "quest": {
-      "barang": [2, 5],
-      "qty": [0, 4, 0, 0, 1, 0],
-      "items": [
-        {"barang": 2, "qty": 4},
-        {"barang": 4, "qty": 1}
       ]
     },
     "total": 900
   },
   {
-    "text": "Mau marshmallow tapi kalau masih cukup uang, tambah cokelat dong!",
+    "text": "Saya ingin tiga nougat dan satu cokelat agar camilannya lengkap.",
     "quest": {
-      "barang": [1, 4],
-      "qty": [1, 0, 0, 1, 0, 0],
+      "barang": [3, 4],
+      "qty": [0, 0, 0, 3, 1, 0, 0],
       "items": [
-        {"barang": 1, "qty": 1},
-        {"barang": 5, "qty": 1}
-      ]
-    },
-    "total": 700
-  },
-  {
-    "text": "Satu nougat buat berangkat sekolah, satu marshmallow buat pulang sekolah!",
-    "quest": {
-      "barang": [1, 3],
-      "qty": [1, 0, 1, 0, 0, 0],
-      "items": [
-        {"barang": 1, "qty": 1},
-        {"barang": 3, "qty": 1}
-      ]
-    },
-    "total": 400
-  },
-  {
-    "text": "Aku beli dua loli merah dan satu jeli buat dibagi sama kakak dan adik, adil kan?",
-    "quest": {
-      "barang": [5, 6],
-      "qty": [0, 0, 0, 0, 2, 1],
-      "items": [
-        {"barang": 4, "qty": 2},
-        {"barang": 6, "qty": 1}
+        {"barang": 3, "qty": 3},
+        {"barang": 4, "qty": 1}
       ]
     },
     "total": 1100
   },
   {
-    "text": "Kalau uangnya cukup, aku mau beli cokelat dan marshmallow. Enak banget!",
+    "text": "Saya ingin satu marshmallow, satu nougat, dan satu jeli agar beragam rasanya.",
     "quest": {
-      "barang": [1, 4],
-      "qty": [1, 0, 0, 1, 0, 0],
+      "barang": [1, 3, 6],
+      "qty": [0, 1, 0, 1, 0, 0, 1],
       "items": [
         {"barang": 1, "qty": 1},
-        {"barang": 5, "qty": 1}
+        {"barang": 3, "qty": 1},
+        {"barang": 6, "qty": 1}
       ]
     },
-    "total": 700
+    "total": 500
   },
   {
-    "text": "Tiga jeli dan satu loli merah buat teman-teman yang main ke rumah—semua pada senang!",
+    "text": "Saya ingin tiga loli merah dan dua cokelat untuk dibawa piknik.",
     "quest": {
-      "barang": [5, 6],
-      "qty": [0, 0, 0, 0, 1, 3],
+      "barang": [4, 5],
+      "qty": [0, 0, 0, 0, 2, 3, 0],
       "items": [
-        {"barang": 4, "qty": 1},
-        {"barang": 6, "qty": 3}
+        {"barang": 4, "qty": 2},
+        {"barang": 5, "qty": 3}
       ]
     },
-    "total": 800
+    "total": 2500
   },
   {
-    "text": "Aku beli marshmallow, dan nougat, jajan lengkap hari ini!",
+    "text": "Saya ingin satu nougat dan dua marshmallow agar manis dan lembut.",
     "quest": {
-      "barang": [2, 3],
-      "qty": [0, 1, 1, 0, 0, 0],
+      "barang": [1, 3],
+      "qty": [0, 2, 0, 1, 0, 0, 0],
+      "items": [
+        {"barang": 1, "qty": 2},
+        {"barang": 3, "qty": 1}
+      ]
+    },
+    "total": 600
+  },
+  {
+    "text": "Saya ingin dua jeli dan satu permen karet agar segar dan kenyal.",
+    "quest": {
+      "barang": [2, 6],
+      "qty": [0, 0, 1, 0, 0, 0, 2],
       "items": [
         {"barang": 2, "qty": 1},
-        {"barang": 3, "qty": 1}
+        {"barang": 6, "qty": 2}
       ]
     },
     "total": 300
   },
   {
-    "text": "Satu cokelat buat aku, satu jeli buat ibu—semua pada senyum!",
+    "text": "Saya ingin tiga cokelat karena rasanya sangat lezat.",
     "quest": {
-      "barang": [4, 6],
-      "qty": [0, 0, 0, 1, 0, 1],
+      "barang": [4],
+      "qty": [0, 0, 0, 0, 3, 0, 0],
       "items": [
-        {"barang": 5, "qty": 1},
+        {"barang": 4, "qty": 3}
+      ]
+    },
+    "total": 1500
+  },
+  {
+    "text": "Saya ingin dua marshmallow dan satu jeli untuk teman minum susu.",
+    "quest": {
+      "barang": [1, 6],
+      "qty": [0, 2, 0, 0, 0, 0, 1],
+      "items": [
+        {"barang": 1, "qty": 2},
         {"barang": 6, "qty": 1}
       ]
     },
+    "total": 500
+  },
+  {
+    "text": "Saya ingin satu marshmallow, satu nougat, dan satu cokelat agar seimbang rasanya.",
+    "quest": {
+      "barang": [1, 3, 4],
+      "qty": [0, 1, 0, 1, 1, 0, 0],
+      "items": [
+        {"barang": 1, "qty": 1},
+        {"barang": 3, "qty": 1},
+        {"barang": 4, "qty": 1}
+      ]
+    },
+    "total": 900
+  },
+  {
+    "text": "Saya ingin dua loli merah dan satu permen karet karena bentuknya lucu.",
+    "quest": {
+      "barang": [2, 5],
+      "qty": [0, 0, 1, 0, 0, 2, 0],
+      "items": [
+        {"barang": 2, "qty": 1},
+        {"barang": 5, "qty": 2}
+      ]
+    },
+    "total": 1100
+  },
+  {
+    "text": "Saya ingin tiga jeli karena bentuknya lucu dan rasanya segar.",
+    "quest": {
+      "barang": [6],
+      "qty": [0, 0, 0, 0, 0, 0, 3],
+      "items": [
+        {"barang": 6, "qty": 3}
+      ]
+    },
+    "total": 300
+  },
+  {
+    "text": "Saya ingin satu marshmallow, satu loli merah, dan satu cokelat untuk hadiah ulang tahun teman.",
+    "quest": {
+      "barang": [1, 4, 5],
+      "qty": [0, 1, 0, 0, 1, 1, 0],
+      "items": [
+        {"barang": 1, "qty": 1},
+        {"barang": 4, "qty": 1},
+        {"barang": 5, "qty": 1}
+      ]
+    },
+    "total": 1000
+  },
+  {
+    "text": "Saya ingin dua nougat dan satu cokelat karena manisnya pas di lidah.",
+    "quest": {
+      "barang": [3, 4],
+      "qty": [0, 0, 0, 2, 1, 0, 0],
+      "items": [
+        {"barang": 3, "qty": 2},
+        {"barang": 4, "qty": 1}
+      ]
+    },
+    "total": 900
+  },
+  {
+    "text": "Saya ingin satu jeli, satu marshmallow, dan satu permen karet agar berwarna-warni.",
+    "quest": {
+      "barang": [1, 2, 6],
+      "qty": [0, 1, 1, 0, 0, 0, 1],
+      "items": [
+        {"barang": 1, "qty": 1},
+        {"barang": 2, "qty": 1},
+        {"barang": 6, "qty": 1}
+      ]
+    },
+    "total": 400
+  },
+  {
+    "text": "Saya ingin tiga permen karet agar bisa membuat balon besar.",
+    "quest": {
+      "barang": [2],
+      "qty": [0, 0, 3, 0, 0, 0, 0],
+      "items": [
+        {"barang": 2, "qty": 3}
+      ]
+    },
+    "total": 300
+  },
+  {
+    "text": "Saya ingin dua marshmallow dan satu nougat agar lebih kenyang.",
+    "quest": {
+      "barang": [1, 3],
+      "qty": [0, 2, 0, 1, 0, 0, 0],
+      "items": [
+        {"barang": 1, "qty": 2},
+        {"barang": 3, "qty": 1}
+      ]
+    },
     "total": 600
+  },
+  {
+    "text": "Saya ingin dua cokelat dan satu loli merah untuk camilan sore hari.",
+    "quest": {
+      "barang": [4, 5],
+      "qty": [0, 0, 0, 0, 2, 1, 0],
+      "items": [
+        {"barang": 4, "qty": 2},
+        {"barang": 5, "qty": 1}
+      ]
+    },
+    "total": 1500
   }
 ]

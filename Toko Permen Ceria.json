@@ -780,6 +780,22 @@
         "name": "Pas bayar pake uang2.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Tak berjudul454_20251009085630 (1) 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tak berjudul454_20251009085630 (1) 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5747,7 +5763,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -5755,8 +5771,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.39251611754882454,
+        "snap": true,
+        "zoomFactor": 1.1726229638177768,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5771,6 +5787,17 @@
             },
             {
               "name": "quest_Text"
+            }
+          ]
+        },
+        {
+          "name": "list",
+          "objects": [
+            {
+              "name": "quest_Text"
+            },
+            {
+              "name": "quest"
             }
           ]
         }
@@ -5805,6 +5832,21 @@
           "name": "counter6",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "counter7",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "allCorrect",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "check",
+          "type": "number",
+          "value": 1
         },
         {
           "name": "price",
@@ -5847,6 +5889,7 @@
           "children": []
         },
         {
+          "folded": true,
           "name": "shop_collection",
           "type": "array",
           "children": [
@@ -6215,8 +6258,8 @@
           "name": "quest",
           "persistentUuid": "ddd9e414-6464-4cd4-b6a7-38aa7d28c1d7",
           "width": 41,
-          "x": 165,
-          "y": 195,
+          "x": 160,
+          "y": 153,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -6232,41 +6275,9 @@
           "name": "quest",
           "persistentUuid": "d726ee6f-f8b2-4e28-aae2-084e4f5bd5f2",
           "width": 41,
-          "x": 165,
-          "y": 335,
+          "x": 160,
+          "y": 263,
           "zOrder": 19,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Another Beginning",
-          "name": "quest_Text",
-          "persistentUuid": "4f3fcdcf-a216-45f0-91c7-164708d3a661",
-          "width": 0,
-          "x": 335,
-          "y": 195,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Another Beginning",
-          "name": "quest_Text",
-          "persistentUuid": "529fa400-a41b-4f73-bd44-f75f80b3b3c0",
-          "width": 0,
-          "x": 335,
-          "y": 335,
-          "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6324,15 +6335,67 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
           "keepRatio": true,
-          "layer": "",
-          "name": "ceritanya_tombol",
-          "persistentUuid": "f1c291e7-c4fb-4d52-a836-a890a7a45b0a",
-          "width": 0,
-          "x": 1180,
-          "y": 46,
+          "layer": "Another Beginning",
+          "name": "quest",
+          "persistentUuid": "38e8173e-c841-4c7c-83be-cf76ad4ce4d9",
+          "width": 41,
+          "x": 160,
+          "y": 373,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.7884615384615385,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "Another Beginning",
+          "name": "quest_spawner",
+          "persistentUuid": "8edb1313-c397-407b-909a-9fe46ab664e6",
+          "width": 41,
+          "x": 343,
+          "y": 153,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.7884615384615385,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "Another Beginning",
+          "name": "quest_spawner",
+          "persistentUuid": "4fb26629-4991-472f-b714-7c0bab00c1b4",
+          "width": 41,
+          "x": 343,
+          "y": 263,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0.7884615384615385,
+          "height": 40,
+          "keepRatio": true,
+          "layer": "Another Beginning",
+          "name": "quest_spawner",
+          "persistentUuid": "b6141ced-bfbc-425a-baec-c34b74dcab01",
+          "width": 41,
+          "x": 343,
+          "y": 373,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -6356,6 +6419,17 @@
           "effects": [],
           "behaviors": [],
           "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
+                }
+              ]
+            },
             {
               "name": "1",
               "useMultipleDirections": false,
@@ -7305,6 +7379,17 @@
             }
           ],
           "animations": [
+            {
+              "name": "0",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
+                }
+              ]
+            },
             {
               "name": "1",
               "useMultipleDirections": false,
@@ -8599,6 +8684,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "quest_spawner",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8663,6 +8809,9 @@
           },
           {
             "objectName": "text_cimori"
+          },
+          {
+            "objectName": "quest_spawner"
           }
         ]
       },
@@ -8887,59 +9036,234 @@
                 "+",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"click?\""
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "struk",
+                "\"info\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "CHECK"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"click?\"",
+                ">=",
+                "3"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "check",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "counter6",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "counter7",
+                "=",
+                "0"
+              ]
             }
           ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
+              "conditions": [
                 {
                   "type": {
-                    "value": "DebuggerTools::ConsoleLog"
+                    "value": "NumberVariable"
                   },
                   "parameters": [
-                    "\"anjay pizza\"",
-                    "\"info\"",
-                    ""
+                    "check",
+                    "=",
+                    "0"
                   ]
                 }
               ],
+              "actions": [],
               "events": [
                 {
-                  "disabled": true,
-                  "type": "BuiltinCommonInstructions::ForEach",
-                  "object": "Harga",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "shop_collection[counter5]",
-                        "=",
-                        "data_shop[counter3].quest.qty[counter5]"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "DebuggerTools::ConsoleLog"
-                      },
-                      "parameters": [
-                        "shop_collection[counter5]",
-                        "\"info\"",
-                        ""
-                      ]
-                    }
-                  ],
+                  "type": "BuiltinCommonInstructions::Repeat",
+                  "repeatExpression": "VariableChildCount(data_shop[counter3].quest.qty)",
+                  "conditions": [],
+                  "actions": [],
                   "events": [
                     {
-                      "type": "BuiltinCommonInstructions::Repeat",
-                      "repeatExpression": "data_shop[counter3].quest.qty",
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "data_shop[counter3].quest.qty[counter7]",
+                            "!=",
+                            "0"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "shop_collection[counter6]",
+                                "!=",
+                                "data_shop[counter3].quest.qty[counter7]"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "check",
+                                "=",
+                                "0"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "shop_collection[counter6]",
+                                "=",
+                                "data_shop[counter3].quest.qty[counter7]"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "check",
+                                "+",
+                                "1"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [],
-                      "actions": []
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "counter6",
+                            "+",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "counter7",
+                            "+",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VariableChildCount"
+                          },
+                          "parameters": [
+                            "data_shop[counter3].quest.barang",
+                            "=",
+                            "check"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Validation_Scene\"",
+                            ""
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -8948,6 +9272,7 @@
           ]
         },
         {
+          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -9001,6 +9326,14 @@
           "actions": [
             {
               "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "list"
+              ]
+            },
+            {
+              "type": {
                 "value": "ActivateBehavior"
               },
               "parameters": [
@@ -9052,7 +9385,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "8"
+                    "7"
                   ]
                 },
                 {
@@ -9072,96 +9405,6 @@
                   "parameters": [
                     "",
                     "\"Beginning\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-                  },
-                  "parameters": [
-                    "papan",
-                    "Tween",
-                    "\"pindahinquest\"",
-                    "papan.X()-50",
-                    "papan.Y()-50",
-                    "\"linear\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectScaleTween3"
-                  },
-                  "parameters": [
-                    "papan",
-                    "Tween",
-                    "\"scaleanuan\"",
-                    "1",
-                    "\"linear\"",
-                    "1",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-                  },
-                  "parameters": [
-                    "All_candy3",
-                    "Tween",
-                    "\"pindahinanj\"",
-                    "All_candy3.X()-80",
-                    "All_candy3.Y()-140",
-                    "\"linear\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectScaleTween3"
-                  },
-                  "parameters": [
-                    "All_candy3",
-                    "Tween",
-                    "\"scalecandy\"",
-                    "0.3",
-                    "\"linear\"",
-                    "1",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectPositionTween2"
-                  },
-                  "parameters": [
-                    "quest_Text",
-                    "Tween",
-                    "\"pin dasdasdada\"",
-                    "quest_Text.X()-160",
-                    "quest_Text.Y()-140",
-                    "\"linear\"",
-                    "1",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Tween::TweenBehavior::AddObjectScaleTween3"
-                  },
-                  "parameters": [
-                    "quest_Text",
-                    "Tween",
-                    "\"scaletext\"",
-                    "0.5",
-                    "\"linear\"",
-                    "1",
-                    "",
-                    ""
                   ]
                 }
               ]
@@ -9224,16 +9467,6 @@
                     "=",
                     "data_shop[counter3].quest.items[counter4].barang"
                   ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "counter4",
-                    "+",
-                    "1"
-                  ]
                 }
               ],
               "events": [
@@ -9263,35 +9496,274 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "counter4",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "quest_Text",
-              "conditions": [],
-              "actions": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
                   "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                    "value": "VariableChildCount"
                   },
                   "parameters": [
-                    "quest_Text",
-                    "Text",
+                    "data_shop[counter3].quest.items",
                     "=",
-                    "\"X \"+data_shop[counter3].quest.items[counter4].qty"
+                    "counter4"
                   ]
-                },
+                }
+              ],
+              "actions": [
                 {
                   "type": {
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
                     "counter4",
-                    "+",
-                    "1"
+                    "=",
+                    "0"
                   ]
                 }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "quest_spawner",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "quest_Text",
+                        "quest_spawner.X()",
+                        "quest_spawner.Y()",
+                        "\"Another Beginning\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "quest_spawner",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "quest_Text",
+                        "Text",
+                        "=",
+                        "\"X \"+data_shop[counter3].quest.items[counter4].qty"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "data_shop[counter3].quest.items[counter4].qty",
+                            "=",
+                            "0"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Cache"
+                          },
+                          "parameters": [
+                            "quest_Text"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "VariableChildCount"
+                          },
+                          "parameters": [
+                            "data_shop[counter3].quest.items",
+                            "=",
+                            "counter4"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "counter4",
+                            "=",
+                            "0"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "counter4",
+                            "+",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "quest",
+                "\"Beginning\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "papan",
+                "Tween",
+                "\"pindahinquest\"",
+                "papan.X()-50",
+                "papan.Y()-50",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+              },
+              "parameters": [
+                "papan",
+                "Tween",
+                "\"scaleanuan\"",
+                "1.3",
+                "\"linear\"",
+                "1",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "All_candy3",
+                "Tween",
+                "\"pindahinanj\"",
+                "All_candy3.X()-70",
+                "All_candy3.Y()-108",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+              },
+              "parameters": [
+                "All_candy3",
+                "Tween",
+                "\"scalecandy\"",
+                "0.4",
+                "\"linear\"",
+                "1",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+              },
+              "parameters": [
+                "quest_Text",
+                "Tween",
+                "\"pin dasdasdada\"",
+                "quest_Text.X()-120",
+                "quest_Text.Y()-90",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectScaleTween3"
+              },
+              "parameters": [
+                "quest_Text",
+                "Tween",
+                "\"scaletext\"",
+                "0.6",
+                "\"linear\"",
+                "1",
+                "",
+                ""
               ]
             }
           ]
@@ -9638,7 +10110,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4789341884535246,
+        "zoomFactor": 0.4789341884535249,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -10235,9 +10707,9 @@
           "effects": [],
           "behaviors": [
             {
-              "checkCollisionMask": true,
               "name": "Draggable",
-              "type": "DraggableBehavior::Draggable"
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
             }
           ],
           "animations": [
@@ -10446,18 +10918,6 @@
           "actions": [
             {
               "type": {
-                "value": "AutoTyping::AutoTyping::SetInterval"
-              },
-              "parameters": [
-                "melody_text",
-                "AutoTyping",
-                "=",
-                "0",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "Wait"
               },
               "parameters": [
@@ -10482,55 +10942,85 @@
                 "Draggable",
                 ""
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
-                "inverted": true,
-                "value": "LayerVisible"
+                "value": "DebuggerTools::ConsoleLog"
               },
               "parameters": [
-                "",
-                "\"Melody\""
+                "struk",
+                "\"info\"",
+                ""
               ]
             }
           ],
-          "actions": [
+          "events": [
             {
-              "type": {
-                "value": "AutoTyping::AutoTyping::SetInterval"
-              },
-              "parameters": [
-                "melody_text",
-                "AutoTyping",
-                "=",
-                "0.05",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "harga",
-                "Text",
-                "=",
-                "struk"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "check",
-                "Draggable",
-                "yes"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "LayerVisible"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Melody\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AutoTyping::AutoTyping::SetInterval"
+                  },
+                  "parameters": [
+                    "harga",
+                    "AutoTyping",
+                    "=",
+                    "0.05",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "harga",
+                    "Text",
+                    "=",
+                    "struk"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "check",
+                    "Draggable",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Payment_Scene\"",
+                    ""
+                  ]
+                }
               ]
             }
           ]
@@ -10738,7 +11228,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4335774304702383,
+        "zoomFactor": 0.6455105703311497,
         "windowMask": false
       },
       "objectsGroups": [
@@ -10774,8 +11264,8 @@
           "name": "Coin_spawner1",
           "persistentUuid": "e13446b3-10bd-419e-aae8-7bc01e1f7913",
           "width": 0,
-          "x": 914,
-          "y": 150,
+          "x": 950,
+          "y": 186,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10791,7 +11281,7 @@
           "persistentUuid": "2b3ffbfc-ed94-4a6b-bcab-e2ef13301e68",
           "width": 0,
           "x": 584,
-          "y": 148,
+          "y": 190,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -10807,7 +11297,7 @@
           "persistentUuid": "43c75258-de3c-463f-ad62-1453b4388f57",
           "width": 0,
           "x": 758,
-          "y": 308,
+          "y": 350,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -10892,6 +11382,38 @@
           "x": 0,
           "y": 0,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "notif",
+          "persistentUuid": "5dd04045-bbc2-4ad3-b86b-e9300ba75d1b",
+          "width": 0,
+          "x": 605,
+          "y": 14,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "notif_text",
+          "persistentUuid": "2f4d2e71-e647-4c64-83e3-89909915dedd",
+          "width": 0,
+          "x": 800,
+          "y": 60,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11800,6 +12322,109 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "notif",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul454_20251009085630 (1) 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 4
+                          },
+                          {
+                            "x": 415,
+                            "y": 4
+                          },
+                          {
+                            "x": 415,
+                            "y": 113
+                          },
+                          {
+                            "x": 3,
+                            "y": 113
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "notif_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "Outfit-VariableFont_wght.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "235;115;146",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "0",
+            "font": "Outfit-VariableFont_wght.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -11837,6 +12462,12 @@
           },
           {
             "objectName": "background"
+          },
+          {
+            "objectName": "notif"
+          },
+          {
+            "objectName": "notif_text"
           }
         ]
       },
@@ -11929,6 +12560,17 @@
                 "y",
                 "=",
                 "Coin_spawner3.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "notif_text",
+                "Text",
+                "=",
+                "struk"
               ]
             }
           ]
@@ -12337,7 +12979,6 @@
           ]
         },
         {
-          "disabled": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12345,9 +12986,9 @@
                 "value": "NumberVariable"
               },
               "parameters": [
-                "struk",
-                "=",
-                "jumlah"
+                "jumlah",
+                ">=",
+                "struk"
               ]
             }
           ],
@@ -12567,6 +13208,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     }
