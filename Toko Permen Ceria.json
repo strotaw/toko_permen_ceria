@@ -28,7 +28,35 @@
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
-    "platformSpecificAssets": {},
+    "platformSpecificAssets": {
+      "android-icon-144": "android-icon-144.png",
+      "android-icon-192": "android-icon-192.png",
+      "android-icon-36": "android-icon-36.png",
+      "android-icon-48": "android-icon-48.png",
+      "android-icon-72": "android-icon-72.png",
+      "android-icon-96": "android-icon-96.png",
+      "android-windowSplashScreenAnimatedIcon": "android-windowSplashScreenAnimatedIcon.png",
+      "desktop-icon-512": "desktop-icon-512.png",
+      "ios-icon-100": "ios-icon-100.png",
+      "ios-icon-1024": "ios-icon-1024.png",
+      "ios-icon-114": "ios-icon-114.png",
+      "ios-icon-120": "ios-icon-120.png",
+      "ios-icon-144": "ios-icon-144.png",
+      "ios-icon-152": "ios-icon-152.png",
+      "ios-icon-167": "ios-icon-167.png",
+      "ios-icon-180": "ios-icon-180.png",
+      "ios-icon-20": "ios-icon-20.png",
+      "ios-icon-29": "ios-icon-29.png",
+      "ios-icon-40": "ios-icon-40.png",
+      "ios-icon-50": "ios-icon-50.png",
+      "ios-icon-57": "ios-icon-57.png",
+      "ios-icon-58": "ios-icon-58.png",
+      "ios-icon-60": "ios-icon-60.png",
+      "ios-icon-72": "ios-icon-72.png",
+      "ios-icon-76": "ios-icon-76.png",
+      "ios-icon-80": "ios-icon-80.png",
+      "ios-icon-87": "ios-icon-87.png"
+    },
     "loadingScreen": {
       "backgroundColor": 0,
       "backgroundFadeInDuration": 0.2,
@@ -864,6 +892,466 @@
         "name": "NewSprite9",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "Group 49.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 49.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 49 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 49 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 50 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 50 (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Kredit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Kredit.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 51.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 51.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Logo (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Logo (1).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/desktop-icon-512.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/desktop-icon-512.png\"}",
+        "name": "desktop-icon-512.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-192.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-192.png\"}",
+        "name": "android-icon-192.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-144.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-144.png\"}",
+        "name": "android-icon-144.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-96.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-96.png\"}",
+        "name": "android-icon-96.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-72.png\"}",
+        "name": "android-icon-72.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-48.png\"}",
+        "name": "android-icon-48.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-36.png\"}",
+        "name": "android-icon-36.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-windowSplashScreenAnimatedIcon.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-windowSplashScreenAnimatedIcon.png\"}",
+        "name": "android-windowSplashScreenAnimatedIcon.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-1024.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-1024.png\"}",
+        "name": "ios-icon-1024.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-180.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-180.png\"}",
+        "name": "ios-icon-180.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-167.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-167.png\"}",
+        "name": "ios-icon-167.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-152.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-152.png\"}",
+        "name": "ios-icon-152.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-144.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-144.png\"}",
+        "name": "ios-icon-144.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-120.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-120.png\"}",
+        "name": "ios-icon-120.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-114.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-114.png\"}",
+        "name": "ios-icon-114.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-100.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-100.png\"}",
+        "name": "ios-icon-100.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-87.png\"}",
+        "name": "ios-icon-87.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-80.png\"}",
+        "name": "ios-icon-80.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-76.png\"}",
+        "name": "ios-icon-76.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-72.png\"}",
+        "name": "ios-icon-72.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-60.png\"}",
+        "name": "ios-icon-60.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-58.png\"}",
+        "name": "ios-icon-58.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-57.png\"}",
+        "name": "ios-icon-57.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-50.png\"}",
+        "name": "ios-icon-50.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-40.png\"}",
+        "name": "ios-icon-40.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-29.png\"}",
+        "name": "ios-icon-29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-20.png\"}",
+        "name": "ios-icon-20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/Group 52.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\Group 52.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Group 53.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Group 53.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Jelly kuning (2).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Jelly kuning (2).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Tak berjudul442_20251010090340 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tak berjudul442_20251010090340 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Tak berjudul442_20251010090329 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tak berjudul442_20251010090329 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Tak berjudul442_20251010090329 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tak berjudul442_20251010090329 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Tak berjudul442_20251010090329 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tak berjudul442_20251010090329 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "main menu bgm - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "main menu bgm - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "main gameplay bgm - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "main gameplay bgm - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "start the game button - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "start the game button - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "panah kanan kiri pas di teks - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "panah kanan kiri pas di teks - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "select candy - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "select candy - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "list permen yang dibutuhin mengecil - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "list permen yang dibutuhin mengecil - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "scanning the item - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "scanning the item - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "drag coin - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "drag coin - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "drop coin - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "drop coin - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button keluar - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button keluar - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button main lagi - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button main lagi - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "game complete short jingle.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "game complete short jingle.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "button ok di setting & credit - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button ok di setting & credit - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "press setting or credit - toko permen ceria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "press setting or credit - toko permen ceria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -883,6 +1371,37 @@
       "name": "keranjangbuatbayar",
       "type": "array",
       "children": []
+    },
+    {
+      "name": "volume",
+      "type": "structure",
+      "children": [
+        {
+          "name": "music",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "music_volume",
+          "type": "number",
+          "value": 100
+        },
+        {
+          "name": "sound",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "sound_volume",
+          "type": "number",
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "ganti_music",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -893,7 +1412,7 @@
       "name": "Home_Scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -906,7 +1425,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3673257545058823,
+        "zoomFactor": 0.2636457673770802,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -1378,6 +1897,22 @@
               "Index": 2.0247e-320
             },
             {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 0,
+              "RadiusY": 3,
+              "LoopDuration": 2,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -1581,6 +2116,22 @@
               "TouchIsInside": false,
               "MouseIsInside": false,
               "Index": 2.0247e-320
+            },
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 0,
+              "RadiusY": 3,
+              "LoopDuration": 2,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
             },
             {
               "name": "Tween",
@@ -2779,8 +3330,120 @@
                 "\"Loading_Scene\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "start the game button - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "kredit_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Kredit_Scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "press setting or credit - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "pengaturan_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"setting_scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "press setting or credit - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -2891,11 +3554,1079 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
+      "mangledName": "Kredit_95Scene",
+      "name": "Kredit_Scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "background",
+          "persistentUuid": "021e0c88-b241-49f5-b14c-bb3e792528ea",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ok_button",
+          "persistentUuid": "3ccaed0b-ef45-4a3c-8350-d946575b9d69",
+          "width": 0,
+          "x": 561,
+          "y": 612,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Kredit.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ok_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 51.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 148,
+                            "y": 1
+                          },
+                          {
+                            "x": 148,
+                            "y": 67
+                          },
+                          {
+                            "x": 0,
+                            "y": 67
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "background"
+          },
+          {
+            "objectName": "ok_button"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "ok_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button ok di setting & credit - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Home_Scene\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "setting_95scene",
+      "name": "setting_scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.8993607583666622,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "background",
+          "persistentUuid": "29e36085-f8d5-4f98-9059-4fc9fcf2ea34",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "layer",
+          "persistentUuid": "06f160f7-8762-41d9-a480-4b5b0f85e2ff",
+          "width": 0,
+          "x": 210,
+          "y": 73,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ok_button",
+          "persistentUuid": "ed44eb85-f47b-4d21-91be-9268ab53fb59",
+          "width": 0,
+          "x": 559,
+          "y": 626,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "music_slider",
+          "persistentUuid": "e0b3ea5c-8bcc-4c4d-b6d2-5918e2be91c7",
+          "width": 0,
+          "x": 570,
+          "y": 270,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "sound_slider",
+          "persistentUuid": "17ebd9f1-0220-49a5-a407-0063d9ea0b87",
+          "width": 0,
+          "x": 570,
+          "y": 400,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 104.42028985507244,
+          "keepRatio": true,
+          "layer": "",
+          "name": "music_icon",
+          "persistentUuid": "fe49b9ae-047a-4938-b6ef-7b01995222bb",
+          "width": 110,
+          "x": 430,
+          "y": 250,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 103.6231884057971,
+          "keepRatio": true,
+          "layer": "",
+          "name": "sound_icon",
+          "persistentUuid": "6e2be768-7add-470b-93a3-86aef5af6ca4",
+          "width": 110,
+          "x": 430,
+          "y": 380,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Pas bayar pake uang2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "layer",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 53.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 20
+                          },
+                          {
+                            "x": 853,
+                            "y": 20
+                          },
+                          {
+                            "x": 853,
+                            "y": 543
+                          },
+                          {
+                            "x": 14,
+                            "y": 543
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ok_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 51.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 148,
+                            "y": 1
+                          },
+                          {
+                            "x": 148,
+                            "y": 67
+                          },
+                          {
+                            "x": 0,
+                            "y": 67
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "music_slider",
+          "type": "PanelSpriteSlider::PanelSpriteSlider",
+          "variant": "music",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "ShowLabelAtChanges": true,
+            "InitialValue": 100
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "sound_slider",
+          "persistentUuid": "a1145003-fd38-482b-9284-f2c99eda123e",
+          "type": "PanelSpriteSlider::PanelSpriteSlider",
+          "variant": "sound",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "ShowLabelAtChanges": true,
+            "InitialValue": 100
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "music_icon",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul442_20251010090329 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 2
+                          },
+                          {
+                            "x": 132,
+                            "y": 2
+                          },
+                          {
+                            "x": 132,
+                            "y": 128
+                          },
+                          {
+                            "x": 5,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "sound_icon",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul442_20251010090329 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 1
+                          },
+                          {
+                            "x": 132,
+                            "y": 1
+                          },
+                          {
+                            "x": 132,
+                            "y": 128
+                          },
+                          {
+                            "x": 5,
+                            "y": 128
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "background"
+          },
+          {
+            "objectName": "layer"
+          },
+          {
+            "objectName": "ok_button"
+          },
+          {
+            "objectName": "music_slider"
+          },
+          {
+            "objectName": "sound_slider"
+          },
+          {
+            "objectName": "music_icon"
+          },
+          {
+            "objectName": "sound_icon"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "ok_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Home_Scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button ok di setting & credit - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "music_slider",
+                "="
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "volume.music",
+                "=",
+                "music_slider.Value()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+              },
+              "parameters": [
+                "sound_slider",
+                "="
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "volume.sound",
+                "=",
+                "sound_slider.Value()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
       "mangledName": "Loading_95Scene",
       "name": "Loading_Scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -3229,6 +4960,15 @@
           "actions": [
             {
               "type": {
+                "value": "PrioritizeLoadingOfScene"
+              },
+              "parameters": [
+                "",
+                "\"Shop_Scene\""
+              ]
+            },
+            {
+              "type": {
                 "value": "PanelSpriteSlider::PanelSpriteSlider::Activate"
               },
               "parameters": [
@@ -3354,6 +5094,16 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "ganti_music",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -3363,6 +5113,13 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -3465,7 +5222,7 @@
       "name": "Animation_Scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -3479,7 +5236,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.546875,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -3711,6 +5469,13 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -3813,7 +5578,7 @@
       "name": "Talking_Scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -3827,7 +5592,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.49508400737488867,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -4324,6 +6090,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -4336,8 +6108,28 @@
                 "\"Talking_Scene2\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -4452,7 +6244,7 @@
       "name": "Talking_Scene2",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -4466,7 +6258,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.43357743047023767,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -5018,6 +6811,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -5028,6 +6827,19 @@
               "parameters": [
                 "",
                 "\"Talking_Scene3\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
                 ""
               ]
             }
@@ -5045,6 +6857,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -5057,8 +6875,28 @@
                 "\"Talking_Scene\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -5173,7 +7011,7 @@
       "name": "Talking_Scene3",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -5187,7 +7025,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.5290357402156842,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -5775,6 +7614,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -5785,6 +7630,19 @@
               "parameters": [
                 "",
                 "\"Shop_Scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
                 ""
               ]
             }
@@ -5802,6 +7660,12 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -5814,8 +7678,28 @@
                 "\"Talking_Scene2\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -9484,6 +11368,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -9504,6 +11389,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "select candy - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "SetNumberVariable"
@@ -10024,34 +11922,6 @@
           ]
         },
         {
-          "disabled": true,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "ceritanya_tombol",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Validation_Scene\"",
-                ""
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -10526,13 +12396,28 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "list permen yang dibutuhin mengecil - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
             }
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -10916,7 +12801,7 @@
       "name": "Validation_Scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -10929,9 +12814,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8993607583666636,
+        "zoomFactor": 0.5117784035210191,
         "windowMask": false,
-        "selectedLayer": "Keranjang"
+        "selectedLayer": "melody_valid"
       },
       "objectsGroups": [],
       "variables": [
@@ -11051,22 +12936,23 @@
           "width": 0,
           "x": 1053,
           "y": 245,
-          "zOrder": 5,
+          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 70,
           "keepRatio": true,
           "layer": "Melody",
           "name": "melody_text",
           "persistentUuid": "21c27685-80ca-4d55-abcb-9ac02ddeb60f",
-          "width": 0,
+          "width": 770,
           "x": 114,
-          "y": 596,
+          "y": 594,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -11095,7 +12981,7 @@
           "depth": 1,
           "height": 237,
           "keepRatio": true,
-          "layer": "Keranjang",
+          "layer": "",
           "name": "keranjang",
           "persistentUuid": "a43a71fa-4cba-41ec-a519-018478c7c513",
           "width": 329,
@@ -11133,8 +13019,8 @@
           "opacity": 0,
           "persistentUuid": "449830ca-bcbe-4e87-a734-2b66befc78ba",
           "width": 0,
-          "x": 144,
-          "y": 377,
+          "x": 113,
+          "y": 371,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -11152,6 +13038,72 @@
           "x": 400,
           "y": 42,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "melody_valid",
+          "name": "burem",
+          "persistentUuid": "be16fed5-a503-4d78-924d-1c03f89c63ce",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "melody_valid",
+          "name": "text_box",
+          "persistentUuid": "2d131889-ca6a-424a-9005-d7330eb8f89d",
+          "width": 0,
+          "x": 25,
+          "y": 532,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 374,
+          "keepRatio": true,
+          "layer": "melody_valid",
+          "name": "melody",
+          "persistentUuid": "996f4328-69d6-4c9c-a398-986e8e7090db",
+          "width": 300,
+          "x": 956,
+          "y": 344,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "melody_valid",
+          "name": "melody_text2",
+          "persistentUuid": "11c4bb2f-b239-4896-94a6-156f90db87eb",
+          "width": 760,
+          "x": 115,
+          "y": 588,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12335,6 +14287,49 @@
             "lineHeight": 0,
             "color": "255;255;255"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "melody_text2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Totalnya adalah ",
+          "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 101,
+            "g": 91,
+            "r": 236
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Totalnya adalah ",
+            "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "236;91;101"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -12363,6 +14358,9 @@
           },
           {
             "objectName": "melody_text"
+          },
+          {
+            "objectName": "melody_text2"
           },
           {
             "objectName": "harga"
@@ -12400,6 +14398,16 @@
           "actions": [
             {
               "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "check",
+                "Draggable",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Wait"
               },
               "parameters": [
@@ -12413,16 +14421,6 @@
               "parameters": [
                 "",
                 "\"Melody\""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "check",
-                "Draggable",
-                ""
               ]
             },
             {
@@ -12452,16 +14450,6 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "check",
-                    "Draggable",
-                    "yes"
-                  ]
-                },
                 {
                   "type": {
                     "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
@@ -12570,6 +14558,87 @@
                 "=",
                 "struk"
               ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"melody_valid\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "scanning the item - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"melody_valid\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "melody_text2",
+                "Text",
+                "+",
+                "struk+\" koin!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Payment_Scene\"",
+                ""
+              ]
             }
           ]
         },
@@ -12647,10 +14716,37 @@
                     "+",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "check",
+                    "Draggable",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "All_candy",
+                    "=",
+                    "6"
+                  ]
                 }
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -12823,6 +14919,59 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "melody_valid",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -12875,7 +15024,7 @@
       "name": "Payment_Scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -12888,9 +15037,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6455105703311497,
+        "zoomFactor": 0.5468750000000022,
         "windowMask": false,
-        "selectedLayer": ""
+        "selectedLayer": "melody_chat"
       },
       "objectsGroups": [
         {
@@ -13075,6 +15224,72 @@
           "x": 800,
           "y": 60,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "melody_chat",
+          "name": "background_putih",
+          "persistentUuid": "605474c0-e9b7-4dd0-af37-d2818f30307b",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 352,
+          "keepRatio": true,
+          "layer": "melody_chat",
+          "name": "melody",
+          "persistentUuid": "fc9ce9ad-c25f-4028-aa7e-9e25fd8a02cf",
+          "width": 293,
+          "x": 962,
+          "y": 367,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "melody_chat",
+          "name": "text_box",
+          "persistentUuid": "d7a56ec1-ab91-436c-90eb-a80c486d835e",
+          "width": 0,
+          "x": 16,
+          "y": 538,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 74,
+          "keepRatio": true,
+          "layer": "melody_chat",
+          "name": "text_melody",
+          "persistentUuid": "255c6260-a43a-4e11-bf64-47ea93080c4f",
+          "width": 784,
+          "x": 108,
+          "y": 590,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14086,6 +16301,301 @@
             "lineHeight": 0,
             "color": "255;255;255"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background_putih",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Rectangle 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "melody",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody senyum 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 388,
+                            "y": 0
+                          },
+                          {
+                            "x": 388,
+                            "y": 463
+                          },
+                          {
+                            "x": 0,
+                            "y": 463
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody buka mulut.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 388,
+                            "y": 0
+                          },
+                          {
+                            "x": 388,
+                            "y": 463
+                          },
+                          {
+                            "x": 0,
+                            "y": 463
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody senyum 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 388,
+                            "y": 0
+                          },
+                          {
+                            "x": 388,
+                            "y": 463
+                          },
+                          {
+                            "x": 0,
+                            "y": 463
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "text_box",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 48.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 156
+                          },
+                          {
+                            "x": 0,
+                            "y": 156
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "text_melody",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 101,
+            "g": 91,
+            "r": 236
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "236;91;101"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -14129,6 +16639,18 @@
           },
           {
             "objectName": "notif_text"
+          },
+          {
+            "objectName": "background_putih"
+          },
+          {
+            "objectName": "melody"
+          },
+          {
+            "objectName": "text_box"
+          },
+          {
+            "objectName": "text_melody"
           }
         ]
       },
@@ -14237,6 +16759,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -14249,7 +16772,21 @@
               ]
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "drag coin - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -14336,7 +16873,21 @@
               ]
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "drag coin - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -14423,7 +16974,21 @@
               ]
             }
           ],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "drag coin - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ],
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -14528,6 +17093,19 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "drop coin - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            },
             {
               "type": {
                 "value": "PathfindingBehavior::SetDestination"
@@ -14648,7 +17226,7 @@
               },
               "parameters": [
                 "jumlah",
-                ">=",
+                "=",
                 "struk"
               ]
             }
@@ -14656,13 +17234,220 @@
           "actions": [
             {
               "type": {
-                "value": "Quit"
+                "value": "PlaySoundCanal"
               },
               "parameters": [
+                "",
+                "game complete short jingle.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"melody_chat\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "text_melody",
+                "Text",
+                "=",
+                "\"Terima kasih ya, Cinnamoroll, ini permenmu!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "ganti_music",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Finish_scene\"",
                 ""
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "jumlah",
+                ">",
+                "struk"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "text_melody",
+                "Text",
+                "=",
+                "\"Hmm... uangnya lebih tuh. Coba lagi ya!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"melody_chat\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "jumlah",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"melody_chat\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "coin_collide",
+                    "Celengan",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "coin_collide",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"melody_chat\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "coin_collide",
+                "Draggable",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "LayerVisible"
+              },
+              "parameters": [
+                "",
+                "\"melody_chat\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "coin_collide",
+                "Draggable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
         }
       ],
       "layers": [
@@ -14835,6 +17620,59 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "melody_chat",
+          "renderingType": "",
+          "visibility": false,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -14875,9 +17713,2600 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Finish_95scene",
+      "name": "Finish_scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "background",
+          "persistentUuid": "bee85485-467b-4a38-bbaa-7a170ba33838",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cimori",
+          "persistentUuid": "3787e0ef-f341-491d-a7d7-cb5cc386e1a8",
+          "width": 0,
+          "x": 381,
+          "y": 214,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "cimori_Text",
+          "persistentUuid": "2e41e400-9c64-4b7f-9a31-b7ecd98c863f",
+          "width": 0,
+          "x": 175,
+          "y": 526,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "next_button",
+          "persistentUuid": "ce6d805c-023a-457c-abc6-dd3f73fe82b6",
+          "width": 0,
+          "x": 1129,
+          "y": 572,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "text_cimori",
+          "persistentUuid": "801c8977-71d6-4a1d-b895-7f36b745387c",
+          "width": 676,
+          "x": 290,
+          "y": 572,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "melody",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody buka mulut.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 464
+                          },
+                          {
+                            "x": 0,
+                            "y": 464
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody senyum 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 464
+                          },
+                          {
+                            "x": 0,
+                            "y": 464
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody senyum 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 464
+                          },
+                          {
+                            "x": 0,
+                            "y": 464
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "melody_text",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 48.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 156
+                          },
+                          {
+                            "x": 0,
+                            "y": 156
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody talk 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "next_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul463_20251010043619 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 86,
+                            "y": 1
+                          },
+                          {
+                            "x": 86,
+                            "y": 73
+                          },
+                          {
+                            "x": 1,
+                            "y": 73
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "text_cimori",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "AutoTyping",
+              "type": "AutoTyping::AutoTyping",
+              "Text": "Text",
+              "Interval": 0.05,
+              "CharacterJustAdded": false,
+              "FullText": "",
+              "TypedText": ""
+            }
+          ],
+          "string": "Terima kasih Melody! Aku senang belanja di sini, Permennya keliatan enak semua!",
+          "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 225,
+            "g": 121,
+            "r": 114
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Terima kasih Melody! Aku senang belanja di sini, Permennya keliatan enak semua!",
+            "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "114;121;225"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cimori",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cinnamoroll buka mulut (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 313
+                          },
+                          {
+                            "x": 0,
+                            "y": 313
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cinnamoroll senyum 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 313
+                          },
+                          {
+                            "x": 0,
+                            "y": 313
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cimori_Text",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 48 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 156
+                          },
+                          {
+                            "x": 0,
+                            "y": 156
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "prev_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul463_20251010043619 3 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 1
+                          },
+                          {
+                            "x": 88,
+                            "y": 1
+                          },
+                          {
+                            "x": 88,
+                            "y": 73
+                          },
+                          {
+                            "x": 3,
+                            "y": 73
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "melody"
+          },
+          {
+            "objectName": "melody_text"
+          },
+          {
+            "objectName": "background"
+          },
+          {
+            "objectName": "next_button"
+          },
+          {
+            "objectName": "text_cimori"
+          },
+          {
+            "objectName": "cimori"
+          },
+          {
+            "objectName": "cimori_Text"
+          },
+          {
+            "objectName": "prev_button"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "struk",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "next_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Finish_scene2\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "AutoTyping",
+          "type": "AutoTyping::AutoTyping"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Finish_95scene2",
+      "name": "Finish_scene2",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "background",
+          "persistentUuid": "bee85485-467b-4a38-bbaa-7a170ba33838",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "next_button",
+          "persistentUuid": "ce6d805c-023a-457c-abc6-dd3f73fe82b6",
+          "width": 0,
+          "x": 1129,
+          "y": 572,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "text_cimori",
+          "persistentUuid": "801c8977-71d6-4a1d-b895-7f36b745387c",
+          "width": 676,
+          "x": 290,
+          "y": 581,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "melody",
+          "persistentUuid": "9d9d3c7c-d5cb-4764-a210-d3bde5fdd1b8",
+          "width": 0,
+          "x": 427,
+          "y": 66,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "melody_text",
+          "persistentUuid": "115b2aa3-e81b-4e92-8afb-e47de5e6f227",
+          "width": 0,
+          "x": 168,
+          "y": 532,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "prev_button",
+          "persistentUuid": "8cc5242a-5f50-4735-8b2f-bd0d9c7a4016",
+          "width": 0,
+          "x": 51,
+          "y": 576,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "melody",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody buka mulut.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 464
+                          },
+                          {
+                            "x": 0,
+                            "y": 464
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody senyum 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 464
+                          },
+                          {
+                            "x": 0,
+                            "y": 464
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody senyum 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 0
+                          },
+                          {
+                            "x": 390,
+                            "y": 464
+                          },
+                          {
+                            "x": 0,
+                            "y": 464
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "melody_text",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 48.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 156
+                          },
+                          {
+                            "x": 0,
+                            "y": 156
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody talk 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "next_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul463_20251010043619 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 86,
+                            "y": 1
+                          },
+                          {
+                            "x": 86,
+                            "y": 73
+                          },
+                          {
+                            "x": 1,
+                            "y": 73
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "text_cimori",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "AutoTyping",
+              "type": "AutoTyping::AutoTyping",
+              "Text": "Text",
+              "Interval": 0.05,
+              "CharacterJustAdded": false,
+              "FullText": "",
+              "TypedText": ""
+            }
+          ],
+          "string": "Kapan-kapan mampir lagi ya, Toko Permen Ceria selalu terbuka buatmu!",
+          "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 101,
+            "g": 91,
+            "r": 236
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Kapan-kapan mampir lagi ya, Toko Permen Ceria selalu terbuka buatmu!",
+            "font": "DynaPuff-VariableFont_wdth,wght.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "lineHeight": 0,
+            "color": "236;91;101"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cimori",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cinnamoroll buka mulut (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 313
+                          },
+                          {
+                            "x": 0,
+                            "y": 313
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cinnamoroll senyum 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 0
+                          },
+                          {
+                            "x": 522,
+                            "y": 313
+                          },
+                          {
+                            "x": 0,
+                            "y": 313
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "cimori_Text",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 48 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 0
+                          },
+                          {
+                            "x": 914,
+                            "y": 156
+                          },
+                          {
+                            "x": 0,
+                            "y": 156
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "prev_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tak berjudul463_20251010043619 3 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 1
+                          },
+                          {
+                            "x": 88,
+                            "y": 1
+                          },
+                          {
+                            "x": 88,
+                            "y": 73
+                          },
+                          {
+                            "x": 3,
+                            "y": 73
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "melody"
+          },
+          {
+            "objectName": "melody_text"
+          },
+          {
+            "objectName": "background"
+          },
+          {
+            "objectName": "next_button"
+          },
+          {
+            "objectName": "text_cimori"
+          },
+          {
+            "objectName": "cimori"
+          },
+          {
+            "objectName": "cimori_Text"
+          },
+          {
+            "objectName": "prev_button"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "next_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Retry_Scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "prev_button",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Finish_scene\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "panah kanan kiri pas di teks - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "AutoTyping",
+          "type": "AutoTyping::AutoTyping"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Retry_95Scene",
+      "name": "Retry_Scene",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.28172599320795605,
+        "windowMask": false,
+        "selectedLayer": ""
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "background",
+          "persistentUuid": "e86017a4-5c8f-4419-8e5e-d711de1e68e1",
+          "width": 0,
+          "x": 0,
+          "y": 1,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "main_lagi",
+          "persistentUuid": "50fad223-24bc-401c-a0e6-0c65c6baa667",
+          "width": 0,
+          "x": 175,
+          "y": 325,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "keluar",
+          "persistentUuid": "62cb13d7-0131-43a0-85f0-cb0a3c6cbef0",
+          "width": 0,
+          "x": 795,
+          "y": 325,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Melody talk 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "main_lagi",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 49 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 302,
+                            "y": 2
+                          },
+                          {
+                            "x": 302,
+                            "y": 165
+                          },
+                          {
+                            "x": 2,
+                            "y": 165
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "keluar",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Group 50 (1).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 299,
+                            "y": 0
+                          },
+                          {
+                            "x": 299,
+                            "y": 162
+                          },
+                          {
+                            "x": 0,
+                            "y": 162
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "background"
+          },
+          {
+            "objectName": "main_lagi"
+          },
+          {
+            "objectName": "keluar"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "main_lagi",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Loading_Scene\"",
+                "="
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button main lagi - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "keluar",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Home_Scene\"",
+                "="
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button keluar - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "BGM"
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "BGM",
+      "name": "BGM",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "BGM",
+      "name": "BGM",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "volume.music_volume",
+                "=",
+                "volume.music"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "volume.sound_volume",
+                "=",
+                "volume.sound"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "ganti_music",
+                "=",
+                "0"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "main menu bgm - toko permen ceria.wav",
+                "1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "ganti_music",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "main gameplay bgm - toko permen ceria.wav",
+                "1",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "eventsFunctionsExtensions": [
     {
       "author": "",
@@ -32245,6 +37674,546 @@
             }
           ],
           "variants": [
+            {
+              "areaMaxX": 256,
+              "areaMaxY": 64,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "name": "sound",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [],
+                  "string": "It displays the value when it changes.",
+                  "font": "",
+                  "textAlignment": "",
+                  "characterSize": 20,
+                  "color": {
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "It displays the value when it changes.",
+                    "font": "",
+                    "textAlignment": "",
+                    "verticalTextAlignment": "top",
+                    "characterSize": 20,
+                    "lineHeight": 0,
+                    "color": "0;0;0"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Thumb",
+                  "rightMargin": 0,
+                  "texture": "Jelly kuning (2).png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "leftEdgeAnchor": 0,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 4,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Draggable",
+                      "type": "DraggableBehavior::Draggable",
+                      "checkCollisionMask": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "FillBar",
+                  "rightMargin": 0,
+                  "texture": "Tak berjudul442_20251010090340 2.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "topEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Slider",
+                      "type": "PanelSpriteSlider::Slider",
+                      "Value": 0,
+                      "MinValue": 0,
+                      "MaxValue": 1,
+                      "StepSize": 1
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Background",
+                  "rightMargin": 0,
+                  "texture": "Tak berjudul442_20251010090329 4.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "topEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteSlider::ButtonFSM",
+                      "ShouldCheckHovering": true,
+                      "State": "Idle",
+                      "TouchId": 0,
+                      "TouchIsInside": false,
+                      "MouseIsInside": false,
+                      "Index": 0
+                    }
+                  ]
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Thumb"
+                  },
+                  {
+                    "objectName": "FillBar"
+                  },
+                  {
+                    "objectName": "Background"
+                  }
+                ]
+              },
+              "objectsGroups": [],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 0,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Background",
+                  "persistentUuid": "7b36a716-8a01-496a-ad7d-0de60daff8f9",
+                  "width": 256,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 45,
+                  "layer": "",
+                  "name": "FillBar",
+                  "persistentUuid": "e775f69e-7845-4103-8a05-5266aba60742",
+                  "width": 232,
+                  "x": 14,
+                  "y": 11,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 61,
+                  "layer": "",
+                  "name": "Thumb",
+                  "persistentUuid": "476a27da-e34f-451f-b660-04a6bbefddbe",
+                  "width": 61,
+                  "x": 214,
+                  "y": 0,
+                  "zOrder": 3,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": {
+                "grid": false,
+                "gridType": "rectangular",
+                "gridWidth": 32,
+                "gridHeight": 32,
+                "gridOffsetX": 0,
+                "gridOffsetY": 0,
+                "gridColor": 10401023,
+                "gridAlpha": 0.8,
+                "snap": false,
+                "zoomFactor": 1.7767172794084927,
+                "windowMask": false,
+                "selectedLayer": ""
+              }
+            },
+            {
+              "areaMaxX": 256,
+              "areaMaxY": 64,
+              "areaMaxZ": 64,
+              "areaMinX": 0,
+              "areaMinY": 0,
+              "areaMinZ": 0,
+              "name": "music",
+              "objects": [
+                {
+                  "assetStoreId": "",
+                  "bold": false,
+                  "italic": false,
+                  "name": "Label",
+                  "smoothed": true,
+                  "type": "TextObject::Text",
+                  "underlined": false,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [],
+                  "string": "It displays the value when it changes.",
+                  "font": "",
+                  "textAlignment": "",
+                  "characterSize": 20,
+                  "color": {
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                  },
+                  "content": {
+                    "bold": false,
+                    "isOutlineEnabled": false,
+                    "isShadowEnabled": false,
+                    "italic": false,
+                    "outlineColor": "255;255;255",
+                    "outlineThickness": 2,
+                    "shadowAngle": 90,
+                    "shadowBlurRadius": 2,
+                    "shadowColor": "0;0;0",
+                    "shadowDistance": 4,
+                    "shadowOpacity": 127,
+                    "smoothed": true,
+                    "underlined": false,
+                    "text": "It displays the value when it changes.",
+                    "font": "",
+                    "textAlignment": "",
+                    "verticalTextAlignment": "top",
+                    "characterSize": 20,
+                    "lineHeight": 0,
+                    "color": "0;0;0"
+                  }
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Thumb",
+                  "rightMargin": 0,
+                  "texture": "Jelly kuning (2).png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 4,
+                      "leftEdgeAnchor": 0,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "topEdgeAnchor": 4,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Draggable",
+                      "type": "DraggableBehavior::Draggable",
+                      "checkCollisionMask": false
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "FillBar",
+                  "rightMargin": 0,
+                  "texture": "Tak berjudul442_20251010090340 2.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "topEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "Slider",
+                      "type": "PanelSpriteSlider::Slider",
+                      "Value": 0,
+                      "MinValue": 0,
+                      "MaxValue": 1,
+                      "StepSize": 1
+                    }
+                  ]
+                },
+                {
+                  "assetStoreId": "",
+                  "bottomMargin": 0,
+                  "height": 32,
+                  "leftMargin": 0,
+                  "name": "Background",
+                  "rightMargin": 0,
+                  "texture": "Tak berjudul442_20251010090329 4.png",
+                  "tiled": false,
+                  "topMargin": 0,
+                  "type": "PanelSpriteObject::PanelSprite",
+                  "width": 32,
+                  "variables": [],
+                  "effects": [],
+                  "behaviors": [
+                    {
+                      "name": "Anchor",
+                      "type": "AnchorBehavior::AnchorBehavior",
+                      "bottomEdgeAnchor": 2,
+                      "leftEdgeAnchor": 1,
+                      "topEdgeAnchor": 1,
+                      "relativeToOriginalWindowSize": true,
+                      "rightEdgeAnchor": 2,
+                      "useLegacyBottomAndRightAnchors": false
+                    },
+                    {
+                      "name": "ButtonFSM",
+                      "type": "PanelSpriteSlider::ButtonFSM",
+                      "ShouldCheckHovering": true,
+                      "State": "Idle",
+                      "TouchId": 0,
+                      "TouchIsInside": false,
+                      "MouseIsInside": false,
+                      "Index": 0
+                    }
+                  ]
+                }
+              ],
+              "objectsFolderStructure": {
+                "folderName": "__ROOT",
+                "children": [
+                  {
+                    "objectName": "Label"
+                  },
+                  {
+                    "objectName": "Thumb"
+                  },
+                  {
+                    "objectName": "FillBar"
+                  },
+                  {
+                    "objectName": "Background"
+                  }
+                ]
+              },
+              "objectsGroups": [],
+              "layers": [
+                {
+                  "ambientLightColorB": 200,
+                  "ambientLightColorG": 200,
+                  "ambientLightColorR": 200,
+                  "camera3DFarPlaneDistance": 10000,
+                  "camera3DFieldOfView": 45,
+                  "camera3DNearPlaneDistance": 3,
+                  "cameraType": "",
+                  "followBaseLayerCamera": false,
+                  "isLightingLayer": false,
+                  "isLocked": false,
+                  "name": "",
+                  "renderingType": "",
+                  "visibility": true,
+                  "cameras": [
+                    {
+                      "defaultSize": true,
+                      "defaultViewport": true,
+                      "height": 0,
+                      "viewportBottom": 1,
+                      "viewportLeft": 0,
+                      "viewportRight": 1,
+                      "viewportTop": 0,
+                      "width": 0
+                    }
+                  ],
+                  "effects": []
+                }
+              ],
+              "instances": [
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 0,
+                  "height": 64,
+                  "layer": "",
+                  "name": "Background",
+                  "persistentUuid": "7b36a716-8a01-496a-ad7d-0de60daff8f9",
+                  "width": 256,
+                  "x": 0,
+                  "y": 0,
+                  "zOrder": 1,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 45,
+                  "layer": "",
+                  "name": "FillBar",
+                  "persistentUuid": "e775f69e-7845-4103-8a05-5266aba60742",
+                  "width": 232,
+                  "x": 14,
+                  "y": 11,
+                  "zOrder": 2,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                },
+                {
+                  "angle": 0,
+                  "customSize": true,
+                  "depth": 1,
+                  "height": 61,
+                  "layer": "",
+                  "name": "Thumb",
+                  "persistentUuid": "476a27da-e34f-451f-b660-04a6bbefddbe",
+                  "width": 61,
+                  "x": 214,
+                  "y": 0,
+                  "zOrder": 3,
+                  "numberProperties": [],
+                  "stringProperties": [],
+                  "initialVariables": []
+                }
+              ],
+              "editionSettings": {
+                "grid": false,
+                "gridType": "rectangular",
+                "gridWidth": 32,
+                "gridHeight": 32,
+                "gridOffsetX": 0,
+                "gridOffsetY": 0,
+                "gridColor": 10401023,
+                "gridAlpha": 0.8,
+                "snap": false,
+                "zoomFactor": 2.097169891379531,
+                "windowMask": false,
+                "selectedLayer": ""
+              }
+            },
             {
               "areaMaxX": 130,
               "areaMaxY": 29,
