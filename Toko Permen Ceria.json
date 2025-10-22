@@ -1379,22 +1379,22 @@
         {
           "name": "music",
           "type": "number",
-          "value": 0
+          "value": 100
         },
         {
           "name": "music_volume",
           "type": "number",
-          "value": 100
+          "value": 0
         },
         {
           "name": "sound",
           "type": "number",
-          "value": 0
+          "value": 100
         },
         {
           "name": "sound_volume",
           "type": "number",
-          "value": 100
+          "value": 0
         }
       ]
     },
@@ -1402,6 +1402,11 @@
       "name": "ganti_music",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "temp_load",
+      "type": "string",
+      "value": "0"
     }
   ],
   "layouts": [
@@ -3045,6 +3050,26 @@
           "actions": [
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"save\"",
+                "\"game\"",
+                "",
+                "temp_load"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "temp_load",
+                "volume"
+              ]
+            },
+            {
+              "type": {
                 "value": "Tween::TweenBehavior::AddObjectPositionTween2"
               },
               "parameters": [
@@ -3914,7 +3939,7 @@
       "name": "setting_scene",
       "r": 209,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -4257,7 +4282,6 @@
         {
           "assetStoreId": "",
           "name": "sound_slider",
-          "persistentUuid": "a1145003-fd38-482b-9284-f2c99eda123e",
           "type": "PanelSpriteSlider::PanelSpriteSlider",
           "variant": "sound",
           "variables": [],
@@ -4439,6 +4463,19 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "button ok di setting & credit - toko permen ceria.wav",
+                "3",
+                "",
+                "volume.sound_volume",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -4449,15 +4486,12 @@
             },
             {
               "type": {
-                "value": "PlaySoundCanal"
+                "value": "EcrireFichierTxt"
               },
               "parameters": [
-                "",
-                "button ok di setting & credit - toko permen ceria.wav",
-                "3",
-                "",
-                "volume.sound_volume",
-                ""
+                "\"save\"",
+                "\"game\"",
+                "ToJSON(volume)"
               ]
             }
           ]
@@ -4520,6 +4554,40 @@
             "includeConfig": 0
           },
           "target": "BGM"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+              },
+              "parameters": [
+                "music_slider",
+                "=",
+                "volume.music",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+              },
+              "parameters": [
+                "sound_slider",
+                "=",
+                "volume.sound",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -20194,38 +20262,6 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "volume.music_volume",
-                "=",
-                "volume.music"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "volume.sound_volume",
-                "=",
-                "volume.sound"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
@@ -20258,7 +20294,7 @@
                 "main menu bgm - toko permen ceria.wav",
                 "1",
                 "",
-                "",
+                "volume.music",
                 ""
               ]
             }
@@ -20269,12 +20305,11 @@
           "conditions": [
             {
               "type": {
-                "inverted": true,
                 "value": "MusicPlaying"
               },
               "parameters": [
                 "",
-                "2"
+                "1"
               ]
             },
             {
@@ -20296,10 +20331,82 @@
               "parameters": [
                 "",
                 "main gameplay bgm - toko permen ceria.wav",
-                "1",
+                "2",
                 "",
-                "",
+                "volume.music",
                 ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "MusicPlaying"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "StopMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVolumeMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1",
+                "=",
+                "volume.music"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVolumeMusicCanal"
+              },
+              "parameters": [
+                "",
+                "2",
+                "=",
+                "volume.music"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVolumeSoundCanal"
+              },
+              "parameters": [
+                "",
+                "3",
+                "=",
+                "volume.sound"
               ]
             }
           ]
